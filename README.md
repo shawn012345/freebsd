@@ -1,2 +1,2 @@
 # freebsd
-The FreeBSD leanning and configure.
+The FreeBSD Server leanning and configure.
