@@ -1,0 +1,1 @@
+*/3 * * * * sh /usr/home/shawn/oray.sh > /dev/null 
